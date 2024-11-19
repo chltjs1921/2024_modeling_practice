@@ -1,3 +1,5 @@
+# reference: https://greglandrum.github.io/rdkit-blog/posts/2023-01-18-fingerprint-generator-tutorial.html
+
 from rdkit import Chem
 from rdkit.Chem import AllChem
 
